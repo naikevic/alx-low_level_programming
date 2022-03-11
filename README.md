@@ -1,1 +1,1 @@
-This repo contains the beginning odf my code programming in at ALX
+This project contains ALX assignment on variables in C
